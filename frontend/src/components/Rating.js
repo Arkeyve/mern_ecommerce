@@ -7,7 +7,6 @@ const Rating = ({ value, text, color }) => {
       <span>
         <i
           style={{ color: color }}
-          style={{ color: color }}
           className={
             value >= 1
               ? "fas fa-star"
