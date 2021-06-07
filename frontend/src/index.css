@@ -29,3 +29,7 @@ h2 {
 main {
   min-height: 80vh;
 }
+
+.form-group {
+  margin: 5px 0;
+}
