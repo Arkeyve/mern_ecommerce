@@ -33,3 +33,14 @@ main {
 .form-group {
   margin: 5px 0;
 }
+
+.carousel-item-next,
+.carousel-item-prev,
+.carousel-item.active {
+  display: flex;
+  justify-content: space-around;
+}
+
+.carousel-caption {
+  color: #333;
+}
